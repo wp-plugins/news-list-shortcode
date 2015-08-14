@@ -12,7 +12,9 @@ This plugin will display a list of the announcement in the shortcode.
 
 This plugin will display a list of the announcement in the shortcode.
 
-`[newslist count=number]` or `[newslist]`
+`[newslist count=number]` 
+or 
+`[newslist]`
 
 
 [This plugin is maintained on GitHub.](https://github.com/tkc49/news-list-shorcode)
@@ -59,7 +61,9 @@ OR
 
 *Usage*
 
-`[newslist count=number]` or `[newslist]`
+`[newslist count=number]` 
+or 
+`[newslist]`
 
 
 == Screenshots ==
