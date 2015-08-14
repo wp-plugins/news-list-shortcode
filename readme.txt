@@ -1,5 +1,5 @@
 === News List ShortCode ===
-Contributors: Takashi Hosoya
+Contributors: tkc49
 Tags: post list, shortcode, news
 Requires at least: 1.0.1
 License: GPLv2 or later
