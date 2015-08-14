@@ -1,7 +1,9 @@
-I=== News List ShortCode ===
+=== News List ShortCode ===
 Contributors: Takashi Hosoya
 Tags: post list, shortcode, news
-Requires at least: 1.0
+Requires at least: 1.0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 This plugin will display a list of the announcement in the shortcode.
