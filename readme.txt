@@ -45,6 +45,10 @@ Please contact me.
 
 * [Takashi Hosoya](http://ht79.info/)
 
+Thanks
+Cover banner designed by [akari_doi](:)https://profiles.wordpress.org/akari_doi://profiles.wordpress.org/akari_doi/)
+
+
 
 == Installation ==
 
@@ -86,6 +90,3 @@ The author must acknowledge the thing that the operation guarantee and the suppo
 == Contact ==
 
 twitter @tkc49
-
-Thanks
-Cover banner designed by [akari_doi]:https://profiles.wordpress.org/akari_doi://profiles.wordpress.org/akari_doi/ 
