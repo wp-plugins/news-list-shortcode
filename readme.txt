@@ -1,7 +1,7 @@
 === News List ShortCode ===
 Contributors: tkc49
 Tags: post list, shortcode, news
-Requires at least: 1.0.2
+Requires at least: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
